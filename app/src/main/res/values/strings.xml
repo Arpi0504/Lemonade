@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="lemon_select">Welcome! Click Button To Get Into.</string>
+    <string name="lemon_squeeze">To squeeze the lemon, keep tapping it.</string>
+    <string name="lemon_drink">To sip the lemonade, tap it.</string>
+    <string name="lemon_empty_glass">To restart, tap the empty glass.</string>
+    <string name="lemon_tree_content_description">Lemon tree</string>
+    <string name="lemon_content_description">Lemon</string>
+    <string name="lemonade_content_description">Glass of lemonade</string>
+    <string name="empty_glass_content_description">Empty glass</string>
+    <string name="lemon_fill">Lemonfill</string>
+</resources>
